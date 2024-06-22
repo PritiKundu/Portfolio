@@ -127,5 +127,10 @@ li{
   margin-top: 80px;
 }
 
+#downloadCVBtn{
+  text-decoration: none;
+  color: white ;
+}
+
 /* button styling */
 
